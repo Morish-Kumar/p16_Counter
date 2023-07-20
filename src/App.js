@@ -5,7 +5,7 @@ import ForwardCounter from './components/ForwardCounter';
 function App() {
   return (
     <React.Fragment>
-      <button>Submit</button>
+      <button>confirm</button>
       <ForwardCounter />
       <BackwardCounter />
     </React.Fragment>
